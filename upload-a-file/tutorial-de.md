@@ -82,7 +82,7 @@ for ($i = 0; $i < $parts; $i++) {
 
 ```
 
-Das komplette Beispiel findest du in [split.php]()
+Das komplette Beispiel findest du in [split.php](https://github.com/pcsg/steem-tutorials/blob/master/upload-a-file/split.php)
 
 
 
@@ -106,7 +106,7 @@ $fileData = bin2hex(file_get_contents('PATH_TO_FILE/steem-whitepaper.pdf.part0')
 // ...
 ```
 
-Das komplette Beispiel findest du in [upload.php]()
+Das komplette Beispiel findest du in [upload.php](https://github.com/pcsg/steem-tutorials/blob/master/upload-a-file/upload.php)
 
 
 ### Download der Datei
