@@ -186,7 +186,7 @@ foreach ($summary as $part => $permlink) {
 }
 ```
 
-Das komplette Beispiel findest du in [updownloadload.php](https://github.com/pcsg/steem-tutorials/blob/master/upload-a-file/download.php)
+Das komplette Beispiel findest du in [download.php](https://github.com/pcsg/steem-tutorials/blob/master/upload-a-file/download.php)
 
 Wir hoffen das Tutorial hat Spass gemacht und dir auch ein wenig etwas beigebracht.
 
